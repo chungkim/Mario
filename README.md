@@ -15,12 +15,6 @@ You will also need the following libraries:
 - boost
 - rapidxml
 
-Resources
----------
-These are needed to run the game in it's current form.
-I've shared them publicly in my Dropbox: http://bit.ly/1myJJk0
-Copy everything from there to the /resources directory.
-
 Documentation
 -------------
 This varies depending on the source file.
